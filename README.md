@@ -29,5 +29,5 @@ npm start
 ## Permissions
 Cette application nécessite les permissions suivantes :
 
-Accès à la caméra pour scanner le QR code et prendre une photo
+Accès à la caméra pour scanner le QR code et prendre une photo  
 Accès au stockage pour sauvegarder la photo
