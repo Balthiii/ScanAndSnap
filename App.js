@@ -76,7 +76,7 @@ export default function App() {
           </View>
         </CameraView>
       ) : (
-        <Button onPress={rescanQR} title="Scanner un QR code" />
+        <Button onPress={rescanQR} title="Scanner un QR code ou reprendre une photo." />
       )}
     </View>
   );
